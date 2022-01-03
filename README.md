@@ -9,10 +9,10 @@ Simply copy the pd files onto the root level of your Nebulae USB flash drive. Wh
 # Options as of 2022_01_03
 The four instruments appear in this order:
 
-00_supersaws.pd
-01_chord_maker.pd
-02_rainstick.pd
-03_pansshadow.pd
+- 00_supersaws.pd
+- 01_chord_maker.pd
+- 02_rainstick.pd
+- 03_pansshadow.pd
 
 # Notes for the future
 These instruments are not necessarily in their finished form. They are playable right now! Future iterations might change some of their functionality to provide improvements and more levels of control.
